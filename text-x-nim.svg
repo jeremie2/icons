@@ -34,16 +34,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="16.61911"
+     inkscape:cx="50.5916"
      inkscape:cy="141.30625"
      inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="925"
+     inkscape:window-width="1613"
      inkscape:window-height="1016"
-     inkscape:window-x="995"
+     inkscape:window-x="307"
      inkscape:window-y="27"
      width="400px"
      height="300px"
@@ -420,7 +420,7 @@
            y="-8.2548828"
            x="146.48828"
            sodipodi:role="line"
-           id="tspan3937">text-x-python</tspan></text>
+           id="tspan3937">text-x-nim</tspan></text>
       <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#cdcdcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="rect16x16"
