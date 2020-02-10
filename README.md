@@ -36,6 +36,7 @@
 	```
 1. Build and install:
 	```
+	cd build
 	sudo ninja install
 	```
 All Nim *.png* icons will now appear into the following forlders:
