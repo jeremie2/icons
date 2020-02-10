@@ -49,7 +49,7 @@ All Nim *.png* icons will now appear into the following forlders:
 	```
 	text-x-
 	```
-	and add the string:
+	add the string:
 	```
 	text-x-nim.png text-nim.png
 	```
@@ -66,7 +66,7 @@ All Nim *.png* icons will now appear into the following forlders:
 
 ## Pull request
 
-1. Run teh following commands:
+1. Run the following commands:
 	```
 	git add .
 	git commit -a -m "write_a_message"
