@@ -64,6 +64,13 @@ All Nim *.png* icons will now appear into the following forlders:
 	sudo ninja install
 	```
 
+## Pull request
 
-
-
+1. Run teh following commands:
+	```
+	git add .
+	git commit -a -m "write_a_message"
+	```
+1. On GitHub select you Yaru-fork page
+1. Click on **Pull requestes** link (top left corner).
+1. Click on the **Create pull request** green button.
