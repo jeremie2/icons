@@ -27,7 +27,7 @@
 1. Move to `~/yaru/icons/src/fullcolor/` directory and run the **render-bitmaps.py** script:
 	```
 	cd yaru/icons/src/fullcolor/
-	./render-bitmaps.py applications-apk text-x-nim
+	./render-bitmaps.py text-x-nim
 	```
 1. Initialize build system:
 	```
