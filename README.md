@@ -47,6 +47,7 @@ All Nim *.png* icons will now appear into the following forlders:
 
 1. Run the following commands:
 	```
+	cd ~/yaru
 	git add .
 	git commit -a -m "write_a_message"
 	```
