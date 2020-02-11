@@ -21,6 +21,7 @@
 1. Change the mimetypes so that will show **text-x-nim**.
 1. Click again the eye next to the layer called **Baseplate** to make it NOT visible.
 1. After you have finished to edit the template, save it and close Inkscape.
+1. Copy **text-x-nim.svg** into `~/yaru/icons/src/fullcolor/mimetypes`.
 
 ## Generating png files
 
