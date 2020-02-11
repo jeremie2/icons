@@ -43,28 +43,6 @@ All Nim *.png* icons will now appear into the following forlders:
 * system folder: `/usr/share/icons/Yaru`;
 * local repo folder: `~/yaru/icons/Suru`.
 
-## Generating symlinks
-
-1. Open with a text editor the `~/yaru/icons/src/symlinks/fullcolor/mimetypes.list` file.
-1. Find the section where the strings begin with;
-	```
-	text-x-
-	```
-	add the string:
-	```
-	text-x-nim.png text-nim.png
-	```
-1. Run the **generate-symlinks.sh** script:
-	```
-	cd ~/yaru/icons/src/symlinks/
-	./generate-symlinks.sh -m text-x-nim
-	```
-1. Install the changes:
-	```
-	cd ~/yaru/build
-	sudo ninja install
-	```
-
 ## Pull request
 
 1. Run the following commands:
