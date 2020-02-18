@@ -26,7 +26,7 @@
 
 1. Move to `~/yaru/icons/src/fullcolor/` directory and run the **render-bitmaps.py** script:
 	```
-	cd yaru/icons/src/fullcolor/
+	cd ~/yaru/icons/src/fullcolor/
 	./render-bitmaps.py text-x-nim
 	```
 1. Initialize build system:
@@ -36,7 +36,7 @@
 	```
 1. Build and install:
 	```
-	cd build
+	cd ~/yaru/build
 	sudo ninja install
 	```
 All Nim *.png* icons will now appear into the following forlders:
